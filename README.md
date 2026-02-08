@@ -1,16 +1,16 @@
-# Hello there
+# Hello there 👋
 
-I'm Vigneshwar, Senior Engineer at Presidio  
+I'm Vigneshwar, Senior Engineer at [Presidio](https://www.presidio.com/)  
 Class of 2022, B.E. Computer Science and Engineering
 
-I occasionally write here: [blog](https://vigneshwarm.me/)
+I occasionally write [here](https://vigneshwarm.me/)
 
 ⚙️ I use daily:
-- AWS, Azure  
+- AWS, Azure, On prem VMware solutions  
 - Kubernetes, Docker  
-- Terraform, Helm  
-- GitHub Actions  
-- Linux, Bash  
+- Terraform, Helm, Argo CD  
+- GitHub Actions, Bitbucket pipelines  
+- Linux, Bash, Web Sockets  
 - .NET APIs, React, Node.js  
 
 🌍 Mostly active around cloud, Kubernetes, and DevOps tooling

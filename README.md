@@ -20,3 +20,8 @@ I occasionally write [here](https://vigneshwarm.me/)
 - DevOps and platform engineering  
 - Kubernetes, cloud architecture  
 - CI/CD pipelines and infrastructure as code
+
+## Contact
+
+- 💼 LinkedIn: [vigneshwar221b](https://www.linkedin.com/in/vigneshwar221b/)
+- 📧 Email: [gmail](vigneshwar221b@gmail.com)

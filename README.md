@@ -11,7 +11,7 @@ I occasionally write [here](https://vigneshwarm.me/)
 - Terraform, Helm, Argo CD  
 - GitHub Actions, Bitbucket pipelines  
 - Linux, Bash, Web Sockets  
-- .NET APIs, React, Node.js  
+- .NET APIs, React, Node.js, Golang 
 
 🌍 Mostly active around cloud, Kubernetes, and DevOps tooling
 
@@ -19,9 +19,9 @@ I occasionally write [here](https://vigneshwarm.me/)
 - Backend and frontend development  
 - DevOps and platform engineering  
 - Kubernetes, cloud architecture  
-- CI/CD pipelines and infrastructure as code
+- CI/CD pipelines and Infrastructure as Code
 
 ## Contact
 
 - 💼 LinkedIn: [vigneshwar221b](https://www.linkedin.com/in/vigneshwar221b/)
-- 📧 Email: [gmail](vigneshwar221b@gmail.com)
+- 📧 Email: [Gmail](vigneshwar221b@gmail.com)

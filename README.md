@@ -13,7 +13,7 @@ I occasionally write [here](https://vigneshwarm.me/)
 - Linux, Bash, Web Sockets  
 - .NET APIs, React, Node.js, Golang 
 
-🌍 Mostly active around cloud, Kubernetes, and DevOps tooling
+🌍 Mostly active around Cloud, Kubernetes, and DevOps tooling
 
 💬 Ping me about:
 - Backend and frontend development  
